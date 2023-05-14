@@ -8,7 +8,7 @@
 
 - 🔭 I don't work in the area right now.
 
-- 👨‍💻 Perfecting **JavaScript, HTML, CSS, SQL.**
+- 👨‍💻 Perfecting **JavaScript, HTML, CSS, React, SQL.**
 
 - ⚡ Enthusiastic **Web 3.0 & Blockchain.**
 <!--
