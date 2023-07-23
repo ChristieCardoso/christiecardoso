@@ -1,4 +1,5 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ChristieCardoso/65e110c35e6d40abe2d5de68458c94b9/raw/50d23a04e7d0c947bacf034cbd7f1f3d1792e3c6/githubcard.svg"/>
+
+<br>
 
 <h1 align="left">Hi🫡, I'm Christie Cardoso</h1>
 
