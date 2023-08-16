@@ -54,7 +54,7 @@
 
 <center>
     <tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=ChristieCardoso&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=chartreuse-dark" alt="Christie github stats" /></a></p>
+      <td>
       </td>
     </tr>
       <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristieCardoso&layout=compact&langs_count=20&hide_border=true&theme=chartreuse-dark" /></a></p>
