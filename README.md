@@ -11,16 +11,16 @@
 
 ### 📩 Contact
 
-- GitHub: [github.com/ChristieCardoso][github]
-- LinkedIn: [linkedin.com/in/christie-cardoso][linkedin]
-- E-mail: christiecardoso@hotmail.com
-
-[github]: https://github.com/ChristieCardoso
-[linkedin]: https://www.linkedin.com/in/christie-cardoso-164a28235/
+[<img align="left" alt="webpage" width="27px" src="https://img.icons8.com/nolan/27/geography.png" />][website]
+[<img align="left" alt="vsnaichuk | Facebook" width="27px" src="https://img.icons8.com/nolan/27/facebook.png" />][facebook]
+[<img align="left" alt="vsnaichuk  | LinkedIn" width="27px" src="https://img.icons8.com/nolan/27/linkedin.png" />][linkedin]
 
 </p>
 
+<br><br>
+
 <!-- ********************************* Tools ******************************************** -->
+
 <div>
    <h4><strong>Tools</strong></h4>
    <img src="./assets/mint.svg" width="30px">&ensp;&ensp;
@@ -35,6 +35,7 @@
 </div>
 
 <!-- ********************************* Always Learning **************************************** -->
+
 <div>
  <h4><strong>Always Learning</strong></h4>
  <img src="./assets/html5.svg" width="30px">&ensp;&ensp;
@@ -66,3 +67,7 @@
 
 
 </center>
+
+[website]:  https://ecommerce-afiliado.vercel.app/
+[facebook]: https://www.facebook.com/chrisstie.22
+[linkedin]: https://www.linkedin.com/in/christie-cardoso-164a28235/
