@@ -12,8 +12,8 @@
 ### 📩 Contact
 
 [<img align="left" alt="webpage" width="27px" src="https://img.icons8.com/nolan/27/geography.png" />][website]
-[<img align="left" alt="vsnaichuk | Facebook" width="27px" src="https://img.icons8.com/nolan/27/facebook.png" />][facebook]
-[<img align="left" alt="vsnaichuk  | LinkedIn" width="27px" src="https://img.icons8.com/nolan/27/linkedin.png" />][linkedin]
+[<img align="left" alt="facebook | Facebook" width="27px" src="https://img.icons8.com/nolan/27/facebook.png" />][facebook]
+[<img align="left" alt="linkedin  | LinkedIn" width="27px" src="https://img.icons8.com/nolan/27/linkedin.png" />][linkedin]
 
 </p>
 
@@ -68,6 +68,6 @@
 
 </center>
 
-[website]:  https://ecommerce-afiliado.vercel.app/
+[website]:  https://christiedev.netlify.app
 [facebook]: https://www.facebook.com/chrisstie.22
 [linkedin]: https://www.linkedin.com/in/christie-cardoso-164a28235/
