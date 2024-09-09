@@ -3,7 +3,7 @@
 
 <h1 align="left">Hi🫡, I'm Christie Cardoso</h1>
 
-- 🔥 Junior Web Developer & Systems analysis and development student
+- 🔥 Junior Web Developer & Software Architecture student
 
 - ⚡ Enthusiastic **Web 3.0 & Blockchain.**
 
